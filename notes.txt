@@ -1,0 +1,1 @@
+My name is Kohei.This is the text added by appendFileSync method.
